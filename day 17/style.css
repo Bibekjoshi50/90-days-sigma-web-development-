@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+.blue{
+    background-color: aquamarine;
+}
+p{
+    color: red;
+}
+#span{
+    background-color:aqua;
+   
+}
+span{
+    color: yellow;
+}
