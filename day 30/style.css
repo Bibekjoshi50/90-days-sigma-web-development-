@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}.nav{
+    background-color:rgb(173, 164, 118);
+}
+.container{
+    background-color: green;
+}
+ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    padding: 30px;
+}

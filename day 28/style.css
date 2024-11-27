@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.box{
+    border:2px solid black;
+    height: 133px;
+    width: 80vw;
+    padding: 3px;
+    margin:3px;
+
+}
+.box1{
+background-color: antiquewhite;
+/* position:  relative ; */
+/* left: 40px; */
+/* top: 34px; */
+/* z-index: 30px; */
+}
+.box2{
+background-color: purple ;   
+ position: fixed;
+ /* top: 0px; */
+}
+.box3{
+ background-color: azure;   
+}
+.box4{
+ background-color: blueviolet;   
+}
+.parent{
+    margin: 43px;
+    padding: 43px;
+/* background-color: black; */
+}

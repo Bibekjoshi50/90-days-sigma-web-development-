@@ -1,4 +1,9 @@
-div p{
-    background-color: aqua;
-    color: yellow;
+ p{
+    background-color: blue;
+    color: white;
+}
+div p:first-child{
+
+background-color: yellow;
+color: red;
 }
