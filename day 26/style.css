@@ -1,0 +1,9 @@
+.box{
+    width: 30vw;
+    height: 30vw;
+    border: 2px solid black;
+    overflow: auto;
+    white-space:nowrap;
+    /* text-overflow: ellipsis; */
+
+}
