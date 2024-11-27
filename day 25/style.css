@@ -1,0 +1,8 @@
+nav ul li{
+    list-style:decimal;
+    /* list-style-type: fire; */
+    background-color: yellow;
+    list-style-position:inside;
+    border: 2px solid black;
+    list-style-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyok0_wlPHQV0oWpwCqfuM_3ic-XqCr26dvL5-fJwNVCSrYFzOn4pk6S_wetaS5tw9HI&usqp=CAU);
+}

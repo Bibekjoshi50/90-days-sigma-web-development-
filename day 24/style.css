@@ -1,0 +1,7 @@
+div{
+    border: 2px solid black;
+    /* box-shadow: 2px; */
+}
+.text-element{
+    text-shadow: 10px 5px 3px #e695f7
+}
