@@ -1,0 +1,10 @@
+ img{
+    float: left;
+ }
+ .cards{
+    border: 2px solid black;
+    display: flow-root;
+ }
+ .card{
+    border: 2px solid red;
+ }
