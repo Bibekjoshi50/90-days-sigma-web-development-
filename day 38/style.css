@@ -1,0 +1,24 @@
+.container{
+border: 2px solid red;
+display: flex;
+height: 80vh;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+flex-direction: column-reverse;
+flex-direction: row-reverse;
+/* there is no justify items in flex box  */
+/* flex-wrap: wrap-reverse; */
+gap: 30px;
+row-gap: 50px;
+
+}
+.item{
+    height: 62px;
+    width: 62px;
+    border: 2px solid black;
+    margin: 4px;
+    background-color: blueviolet;
+
+   
+}
