@@ -1,0 +1,11 @@
+.container{
+    border: 2px solid rgb(19, 19, 18);
+    display: grid;
+    grid-template-columns:120px 100px ;
+    grid grid-template-rows: 10opx 100px 100px;
+}
+.items{
+    border: 2px solid red;
+    height: 55px;
+    width: 55px;
+}
