@@ -1,0 +1,16 @@
+.container{
+    background-color: rgb(144, 205, 205);
+    height: 80vh;
+    width: 30vw;
+}
+.box{
+    width:34px ;
+    height: 45px;
+    background-color: aqua;
+    animation-duration: 3s;
+}
+@keyframes bibekanimation{
+    to{
+        transform: translateX(1000px);
+    }
+}
