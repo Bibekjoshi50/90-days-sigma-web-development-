@@ -1,0 +1,11 @@
+img{
+    /* filter: blur(2px); */
+
+}
+.img1{
+filter: brightness(100%);
+/* filter: contrast(25%); */
+}
+.img3{
+    /* scale: grayscale; */
+}
