@@ -1,0 +1,16 @@
+.first{
+  display: flex;  
+  background-color: aqua;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.first span{
+    font-size: 40px;
+
+}
+.first{
+    gap: 53px;
+    margin: 34px;
+    padding: 28px;
+}
