@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Factorial of a number!!!!!</title>
+</head>
+<body>
+    <script type="text/javascript">
+        var number = prompt("Please enter a number");
+var fact =1;
+if(number ==0){
+    console.log(`The factrial of ${number} is 1`);
+}
+else if(number < 0){
+    console.log(`The factoricl of -ve number is not possible `);
+} else{
+for (var i= 1;i<=number;i++){
+    fact =fact * i;
+}
+    console.log(`The factorical of ${number} is ${fact}`);
+}
+    </script>
+</body>
+</html>
